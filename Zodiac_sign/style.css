@@ -1,0 +1,45 @@
+
+ body {
+  background-image: url('bg.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+font-size: 40px;
+;
+}
+p {
+  text-align: center;
+  color: white;
+font-size: 40px;
+}
+ul {
+  text-align: center;
+color: white;
+font-size: 40px;
+
+}
+a{
+  text-align: center;
+color: white;
+font-size: 40px;
+}
+div.container {
+  text-align: center;
+
+}
+ul.myUL {
+  display: inline-block;
+  text-align: center;
+}
+img{  
+height: 300px;  
+width: 300px; 
+}  
+#center {  
+text-align: center;  
+}  
